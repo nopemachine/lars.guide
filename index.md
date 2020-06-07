@@ -25,6 +25,16 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 # Combos
 
+## f1+2
+
+> f1+2 &rarr; df3~d
+
+## uf4
+
+## uf3
+
+## df2,1
+
 # Links
 
 ## YouTube Channels
