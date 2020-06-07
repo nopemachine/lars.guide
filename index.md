@@ -1,3 +1,7 @@
+## What is this?
+
+Welcome to my the site where I keep my notes learning the [Tekken 7](https://en.wikipedia.org/wiki/Tekken_7) character [Lars Alexandersson](https://en.wikipedia.org/wiki/Lars_Alexandersson). I am not an expert and if you don't want to end up a scrub you should disregard everything I write here. You've been warned.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nopemachine/lars.guide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
