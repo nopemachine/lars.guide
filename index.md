@@ -19,18 +19,20 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ## Useful Moves
 
-### b1 (Chevron Slash)
+### b1
 
 - :yellow_heart: 17 damage :zap: 15f :zzz: -9f :boom: +4f :anger: KND
+- Chevron Slash
 - Homing
 - Screw
 - Long range
 - Wallsplats on CH
 - Generally useful to just throw out there
 
-### f1+4 (Power Slug)
+### f1+4
 
 - :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND :anger: KND
+- Power Slug
 - Shoulder
 - Launch punishable but it never actually gets punished for whatever reason
 
