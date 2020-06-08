@@ -7,9 +7,9 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Block Punishers
 
 - 10f
-  - 2,1 *(20 dmg)*
+  - 2,1 *(:boom: 20)*
 - 12f
-  - f2,4 *(32 dmg)*
+  - f2,4 *(:boom: 32)*
 - 14f
   - f,b2,1 *(launches)*
 
