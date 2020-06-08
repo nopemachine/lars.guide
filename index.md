@@ -35,6 +35,12 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### df2,1
 
+## Matchups
+
+### Law
+
+- Low parry the second hit of junkyard (b2,3,4)
+
 ## Links
 
 ### Written Guides
