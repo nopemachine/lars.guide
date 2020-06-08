@@ -22,6 +22,8 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
   - f2,4 :purple_heart: 32 damage :zap: 12f :zzz: -12f :boom: KND :anger: KND
 - 14f
   - f,b2,1 :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom: launches :anger: launches
+- 15f
+  - [f1+2](#f12--ark-blast)
 
 ### Whiff
 
@@ -31,7 +33,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### f1+2 &rarr; Ark Blast
 
-- :yellow_heart: 20 damage :zap: 16f :zzz: -13f :boom: launches :anger: launches
+- :yellow_heart: 20 damage :zap: 15f :zzz: -13f :boom: launches :anger: launches
 - Short range but hitbox seems to extend further than hurtbox
 - f1+2 df3\~d *DEN* 2 2 df2,1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 69 damage
 
