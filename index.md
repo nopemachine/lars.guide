@@ -11,15 +11,16 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - :zzz: Frames on block
 - :boom: Frames on hit
 - :anger: Frames on CH
+- :wrench: Screw attack
 
 ## Punishers
 
 ### Block
 
 - 10f
-  - 2,1 :purple_heart: 20 damage :zap: 10f :zzz: -5f :boom: +6f :anger: +6
+  - 2,1 :purple_heart: 20 damage :zap: 10f :zzz: -5f :boom: +6f
 - 12f
-  - f2,4 :purple_heart: 32 damage :zap: 12f :zzz: -12f :boom: KND :anger: KND
+  - f2,4 :purple_heart: 32 damage :zap: 12f :zzz: -12f :boom: KND :wrench:
 - 14f
   - [f,b2,1](#fb21--blue-bolt)
 - 15f
@@ -33,18 +34,18 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### f1+2 &rarr; Ark Blast
 
-- :yellow_heart: 20 damage :zap: 15f :zzz: -13f :boom: launches :anger: launches
+- :yellow_heart: 20 damage :zap: 15f :zzz: -13f :boom: launches
 - Short range but hitbox seems to extend further than hurtbox
 - f1+2 df3\~d *DEN* 2 2 df2,1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 69 damage
 
 ### uf4 &rarr; Storm Axle
 
-- :yellow_heart: 20 damage :zap: 27f :zzz: -9f :boom: launches :anger: launches
+- :yellow_heart: 20 damage :zap: 27f :zzz: -9f :boom: launches
 - uf4 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 68 damage
 
 ### f,b2,1 &rarr; Blue Bolt
 
-- :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom: launches :anger: launches
+- :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom: launches
 - f,b2,1 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 68 damage
 
 ### ff2
@@ -59,9 +60,8 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### b1 &rarr; Chevron Slash
 
-- :yellow_heart: 17 damage :zap: 15f :zzz: -9f :boom: +4f :anger: KND
+- :yellow_heart: 17 damage :zap: 15f :zzz: -9f :boom: +4f :anger: KND :wrench:
 - Homing
-- Screw
 - Long range
 - Wallsplats on CH
 - Generally useful to just throw out there
