@@ -4,7 +4,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ## Punishers
 
-### Block Punishers
+### Block
 
 - 10f
   - 2,1 :boom: 20 damage
@@ -13,7 +13,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - 14f
   - f,b2,1 :boom: launches
 
-### Whiff Punishers
+### Whiff
 
 - b3,4
 
