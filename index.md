@@ -7,11 +7,11 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Block Punishers
 
 - 10f
-  - 2,1 *(:boom: 20)*
+  - 2,1 :boom: 20
 - 12f
-  - f2,4 *(:boom: 32)*
+  - f2,4 :boom: 32
 - 14f
-  - f,b2,1 *(launches)*
+  - f,b2,1 :boom: launches
 
 ### Whiff Punishers
 
