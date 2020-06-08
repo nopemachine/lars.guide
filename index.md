@@ -18,7 +18,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Block
 
 - 10f
-  - 2,1 :purple_heart: 20 damage :zap: 10f :zzz: -5f :boom: +6f
+  - 2,1 :purple_heart: 20 damage :zap: 10f :zzz: -5f :boom::anger: +6f
 - 12f
   - f2,4 :purple_heart: 32 damage :zap: 12f :zzz: -12f :boom: KND :wrench:
 - 14f
