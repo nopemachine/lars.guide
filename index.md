@@ -34,10 +34,6 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - Shoulder
 - Launch punishable but it never actually gets punished for whatever reason
 
-### f,b2,1 &rarr; Blue Bolt
-
-- Focus on getting f,b2. The last 1 has a big input window!
-
 ## Launchers
 
 ### f1+2 &rarr; Ark Blast
