@@ -7,9 +7,9 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Block Punishers
 
 - 10f
-  - 2,1 :boom: 20
+  - 2,1 :boom: 20 damage
 - 12f
-  - f2,4 :boom: 32
+  - f2,4 :boom: 32 damage
 - 14f
   - f,b2,1 :boom: launches
 
@@ -21,7 +21,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### f1+2
 
-- f1+2 df3\~d *DEN* 2 2 df2,1 f3 *DEN* 1 b3\~f *SEN* 1 :boom: 69
+- f1+2 df3\~d *DEN* 2 2 df2,1 f3 *DEN* 1 b3\~f *SEN* 1 :boom: 69 damage
 
 ### uf4
 
