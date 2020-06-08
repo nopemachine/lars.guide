@@ -1,6 +1,6 @@
-## Warning
+Welcome to my the site where I keep the notes I make while learning the [Tekken 7](https://en.wikipedia.org/wiki/Tekken_7) character [Lars Alexandersson](https://en.wikipedia.org/wiki/Lars_Alexandersson).
 
-Welcome to my the site where I keep the notes I make while learning the [Tekken 7](https://en.wikipedia.org/wiki/Tekken_7) character [Lars Alexandersson](https://en.wikipedia.org/wiki/Lars_Alexandersson). I am not an expert and if you don't want to end up a scrub you should disregard everything I write here. You've been warned.
+> :warning: I am not an expert and if you don't want to end up a scrub you should disregard everything I write here. You've been warned.
 
 ## Moves
 
