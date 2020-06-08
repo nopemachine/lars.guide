@@ -20,7 +20,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - 10f
   - 2,1 :purple_heart: 20 damage :zap: 10f :zzz: -5f :boom::anger: +6f
 - 12f
-  - f2,4 :purple_heart: 32 damage :zap: 12f :zzz: -12f :boom: KND :wrench:
+  - f2,4 :purple_heart: 32 damage :zap: 12f :zzz: -12f :boom::anger: KND :wrench:
 - 14f
   - [f,b2,1](#fb21--blue-bolt)
 - 15f
@@ -34,18 +34,18 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### f1+2 &rarr; Ark Blast
 
-- :yellow_heart: 20 damage :zap: 15f :zzz: -13f :boom: launches
+- :yellow_heart: 20 damage :zap: 15f :zzz: -13f :boom::anger: launches
 - Short range but hitbox seems to extend further than hurtbox
 - f1+2 df3\~d *DEN* 2 2 df2,1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 69 damage
 
 ### uf4 &rarr; Storm Axle
 
-- :yellow_heart: 20 damage :zap: 27f :zzz: -9f :boom: launches
+- :yellow_heart: 20 damage :zap: 27f :zzz: -9f :boom::anger: launches
 - uf4 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 68 damage
 
 ### f,b2,1 &rarr; Blue Bolt
 
-- :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom: launches
+- :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom::anger: launches
 - f,b2,1 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 68 damage
 
 ### ff2
@@ -68,7 +68,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### f1+4 &rarr; Power Slug
 
-- :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND
+- :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom::anger: KND
 - Shoulder
 - Wallsplats
 - Useful as a panic move which unlike lightning screw tends to land
