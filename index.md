@@ -27,6 +27,10 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 - uf4 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1
 
+### ff2
+
+### ws1
+
 ### uf3
 
 ### df2,1
