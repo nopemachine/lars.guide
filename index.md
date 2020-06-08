@@ -68,6 +68,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 - :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND :anger: KND
 - Shoulder
+- Wallsplats
 - Useful as a panic move. Unlike lightning screw it tends to land
 - Launch punishable but it never actually gets punished for whatever reason
 
