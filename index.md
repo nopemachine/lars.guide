@@ -6,7 +6,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 - :purple_heart: High attack
 - :yellow_heart: Mid attack
-- :blue_heart: Low Attack
+- :blue_heart: Low attack
 - :zap: Startup frames
 - :zzz: Frames on block
 - :boom: Frames on hit
@@ -71,7 +71,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND :anger: KND
 - Shoulder
 - Wallsplats
-- Useful as a panic move. Unlike lightning screw it tends to land
+- Useful as a panic move which unlike lightning screw tends to land
 - Launch punishable but it never actually gets punished for whatever reason
 
 ## Matchups
