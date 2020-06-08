@@ -1,6 +1,16 @@
 Welcome to my the site where I keep the notes I make while learning the [Tekken 7](https://en.wikipedia.org/wiki/Tekken_7) character [Lars Alexandersson](https://en.wikipedia.org/wiki/Lars_Alexandersson).
 
-> :warning: I am not an expert and if you don't want to end up a scrub you should disregard everything I write here. You've been warned.
+> :warning: I'm a scrub. if you don't want to end up a scrub you should disregard everything I write here. You've been warned.
+
+## Explainer
+
+- :purple_heart: High attack
+- :yellow_heart: Mid attack
+- :blue_heart: Low Attack
+- :zap: Startup frames
+- :zzz: Frames on block
+- :boom: Frames on hit
+- :anger: Frames on CH
 
 ## Punishers
 
