@@ -68,7 +68,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### f1+4 &rarr; Power Slug
 
-- :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND :anger: KND
+- :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND
 - Shoulder
 - Wallsplats
 - Useful as a panic move which unlike lightning screw tends to land
