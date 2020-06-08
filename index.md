@@ -19,9 +19,8 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ## Useful Moves
 
-### b1
+### b1 &rarr; Chevron Slash
 
-- Chevron Slash
 - :yellow_heart: 17 damage :zap: 15f :zzz: -9f :boom: +4f :anger: KND
 - Homing
 - Screw
@@ -29,16 +28,14 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - Wallsplats on CH
 - Generally useful to just throw out there
 
-### f1+4
+### f1+4 &rarr; Power Slug
 
-- Power Slug
 - :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND :anger: KND
 - Shoulder
 - Launch punishable but it never actually gets punished for whatever reason
 
-### f,b2,1
+### f,b2,1 &rarr; Blue Bolt
 
-- Blue Bolt
 - :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom: launches :anger: launches
 - Focus on getting f,b2. The last 1 has a big input window!
 
