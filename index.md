@@ -7,11 +7,11 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Block Punishers
 
 - 10f
-  - 2,1 *20 dmg*
+  - 2,1 *(20 dmg)*
 - 12f
-  - f2,4 *32 dmg*
+  - f2,4 *(32 dmg)*
 - 14f
-  - f,b2,1 *launches*
+  - f,b2,1 *(launches)*
 
 ### Whiff Punishers
 
