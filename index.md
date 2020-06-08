@@ -86,3 +86,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Streamers
 
 - Anyone?
+
+### Other Stuff
+
+- [Frames](http://rbnorway.org/lars-t7-frames/)
