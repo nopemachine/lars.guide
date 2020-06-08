@@ -36,21 +36,24 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### f,b2,1 &rarr; Blue Bolt
 
-- :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom: launches :anger: launches
 - Focus on getting f,b2. The last 1 has a big input window!
 
-## Combos
+## Launchers
 
-### f1+2
+### f1+2 &rarr; Ark Blast
 
+- :yellow_heart: 20 damage :zap: 16f :zzz: -13f :boom: launches :anger: launches
+- Short range but hitbox seems to extend further than hurtbox
 - f1+2 df3\~d *DEN* 2 2 df2,1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 69 damage
 
-### uf4
+### uf4 &rarr; Storm Axle
 
+- :yellow_heart: 20 damage :zap: 27f :zzz: -9f :boom: launches :anger: launches
 - uf4 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 68 damage
 
-### f,b2,1
+### f,b2,1 &rarr; Blue Bolt
 
+- :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom: launches :anger: launches
 - f,b2,1 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow_heart: 68 damage
 
 ### ff2
