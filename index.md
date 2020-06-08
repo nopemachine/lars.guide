@@ -17,23 +17,6 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 - b3,4
 
-## Useful Moves
-
-### b1 &rarr; Chevron Slash
-
-- :yellow_heart: 17 damage :zap: 15f :zzz: -9f :boom: +4f :anger: KND
-- Homing
-- Screw
-- Long range
-- Wallsplats on CH
-- Generally useful to just throw out there
-
-### f1+4 &rarr; Power Slug
-
-- :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND :anger: KND
-- Shoulder
-- Launch punishable but it never actually gets punished for whatever reason
-
 ## Launchers
 
 ### f1+2 &rarr; Ark Blast
@@ -59,6 +42,23 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### uf3
 
 ### df2,1
+
+## Other Useful Moves
+
+### b1 &rarr; Chevron Slash
+
+- :yellow_heart: 17 damage :zap: 15f :zzz: -9f :boom: +4f :anger: KND
+- Homing
+- Screw
+- Long range
+- Wallsplats on CH
+- Generally useful to just throw out there
+
+### f1+4 &rarr; Power Slug
+
+- :yellow_heart: 28 damage :zap: 13f :zzz: -18f :boom: KND :anger: KND
+- Shoulder
+- Launch punishable but it never actually gets punished for whatever reason
 
 ## Matchups
 
