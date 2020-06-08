@@ -27,7 +27,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ## f1+2
 
-> f1+2 &rarr; df3~d &rarr; **DEN** 2 &rarr; 2 
+> f1+2 &rarr; df3~d &rarr; **(DEN)** 2 &rarr; 2 &rarr; df2,1 &rarr; f3 &rarr; **(DEN)** 1 &rarr; b3~f &rarr; **(SEN)** 1
 
 ## uf4
 
