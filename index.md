@@ -39,7 +39,11 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### Written Guides
 
-- [Lars Guide - Tekken 7 (Season 3)](https://docs.google.com/document/d/1OUvKXID4n4a2XuFL7qJWBLlU_3C6rBu_Cb4MxWHrP5o/edit?usp=drivesdk)
+- [HelpMePractice - Lars Guide - Tekken 7 (Season 3)](https://docs.google.com/document/d/1OUvKXID4n4a2XuFL7qJWBLlU_3C6rBu_Cb4MxWHrP5o/edit?usp=drivesdk)
+
+### Video Guides
+
+- [BuffLars - Lars season 3 guide](https://www.youtube.com/watch?v=60D7B4Sk1e0)
 
 ### YouTube Channels
 
