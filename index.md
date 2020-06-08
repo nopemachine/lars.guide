@@ -2,7 +2,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 > :warning: I am not an expert and if you don't want to end up a scrub you should disregard everything I write here. You've been warned.
 
-## Moves
+## Punishers
 
 ### Block Punishers
 
@@ -16,6 +16,15 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Whiff Punishers
 
 - b3,4
+
+## Useful Moves
+
+### b1 (Chevron Slash)
+
+- Homing
+- Safe
+- Long range
+- Wallsplats on CH
 
 ## Combos
 
@@ -39,6 +48,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### Law
 
+- Sidestep Right
 - Low parry the second hit of junkyard (b2,3,4)
 
 ## Links
