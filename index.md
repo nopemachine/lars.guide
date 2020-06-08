@@ -49,6 +49,10 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 - uf4 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow heart: 68 damage
 
+### f,b2,1
+
+- f,b2,1 f3 *DEN* 2 df3\~d *DEN* 2 b1 f3 *DEN* 1 b3\~f *SEN* 1 :yellow heart: 68 damage
+
 ### ff2
 
 ### ws1
