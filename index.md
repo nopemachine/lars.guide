@@ -12,6 +12,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - :boom: Frames on hit
 - :anger: Frames on CH
 - :wrench: Screw attack
+- :house: Homing attack
 
 ## Punishers
 
@@ -60,8 +61,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ### b1 &rarr; Chevron Slash
 
-- :yellow_heart: 17 damage :zap: 15f :zzz: -9f :boom: +4f :anger: KND :wrench:
-- Homing
+- :yellow_heart: 17 damage :zap: 15f :zzz: -9f :boom: +4f :anger: KND :wrench: :house:
 - Long range
 - Wallsplats on CH
 - Generally useful to just throw out there
