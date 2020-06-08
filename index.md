@@ -21,7 +21,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - 12f
   - f2,4 :purple_heart: 32 damage :zap: 12f :zzz: -12f :boom: KND :anger: KND
 - 14f
-  - f,b2,1 :yellow_heart: 20 damage :zap: 14f :zzz: -18f :boom: launches :anger: launches
+  - [f,b2,1](#fb21--blue-bolt)
 - 15f
   - [f1+2](#f12--ark-blast)
 
