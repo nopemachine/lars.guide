@@ -86,6 +86,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Written Guides
 
 - [HelpMePractice - Lars Guide - Tekken 7 (Season 3)](https://docs.google.com/document/d/1OUvKXID4n4a2XuFL7qJWBLlU_3C6rBu_Cb4MxWHrP5o/edit?usp=drivesdk)
+- [klaww - Lars matchup specifics](https://docs.google.com/document/d/1V60LoEjH0oLFQX0zMyK4KUX_KZTtlt1F1_v7-C4I_WU/edit?usp=sharing)
 
 ### Video Guides
 
