@@ -91,6 +91,7 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 ### Video Guides
 
 - [BuffLars - Lars season 3 guide](https://www.youtube.com/watch?v=60D7B4Sk1e0)
+- [Tyler2k Blog - Tekken 7 Lars Tutorial (movelist breakdown)](https://www.youtube.com/watch?v=u30Wu2L5i3w)
 
 ### YouTube Channels
 
