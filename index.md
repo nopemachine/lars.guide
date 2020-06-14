@@ -81,6 +81,13 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 - Sidestep Right
 - Low parry the second hit of junkyard (b2,3,4)
 
+## Move Properties
+
+| Input   | Name          | Startup | Block | Hit   | CH    | Notes            |
+| ------- | ------------- | ------- | ----- | ----- | ----- | ---------------- |
+| b+1     | Chevron Slash | 15      | -9    | +4    | KND   | Homing, Tailspin |
+| f,b+2,1 | Blue Bolt     | 14      | -18   | Combo | Combo |                  |
+
 ## Links
 
 ### Written Guides
