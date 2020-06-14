@@ -83,11 +83,17 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ## Move Properties
 
-| Input   | Name          | Damage  | Startup | Block | Hit   | CH    | Notes            |
-| ------- | ------------- | ------- | ------- | ----- | ----- | ----- | ---------------- |
-| b+1     | Chevron Slash | 17      | 15      | -9    | +4    | KND   | Homing, Tailspin |
-| f,b+2,1 | Blue Bolt     | 10, 10  | 14      | -18   | Combo | Combo |                  |
-| f1+2    | Ark Blast     | 20      | 15      | -13   | Combo | Combo |                  |
+Frame data is mostly from RBNorway but I've tried to make some of it a bit easier to understand.
+
+| Input   | Name          | Level | Damage  | Startup | Block | Hit   | CH    | Notes            |
+| ------- | ------------- | ----- | ------- | ------- | ----- | ----- | ----- | ---------------- |
+| <a name="prop_b1">b+1</a>     | Chevron Slash | m     | 17      | 15      | -9    | +4    | KND   | Homing, Tailspin |
+| f,b+2,1 | Blue Bolt     | m, m  | 10, 10  | 14      | -18   | Combo | Combo |                  |
+| f1+2    | Ark Blast     | m     | 20      | 15      | -13   | Combo | Combo |                  |
+| f1+4    | Power Slug    | m     | 28      | 13      | -18   | KND   | KND   |                  |
+| u/f+4   | Storm Axle    | m     | 20      | 27      | -9    | Combo | Combo | Low crush        |
+| f+2,4   |               | h, h  | 10, 22  | 12      | -12   | KND   | KND   |                  |
+| 2,1     |               | h, m  | 10, 7   | 10      | -5    | +6    | +6    |                  |
 
 ## Links
 
