@@ -83,10 +83,11 @@ Welcome to my the site where I keep the notes I make while learning the [Tekken 
 
 ## Move Properties
 
-| Input   | Name          | Startup | Block | Hit   | CH    | Notes            |
-| ------- | ------------- | ------- | ----- | ----- | ----- | ---------------- |
-| b+1     | Chevron Slash | 15      | -9    | +4    | KND   | Homing, Tailspin |
-| f,b+2,1 | Blue Bolt     | 14      | -18   | Combo | Combo |                  |
+| Input   | Name          | Damage  | Startup | Block | Hit   | CH    | Notes            |
+| ------- | ------------- | ------- | ------- | ----- | ----- | ----- | ---------------- |
+| b+1     | Chevron Slash | 17      | 15      | -9    | +4    | KND   | Homing, Tailspin |
+| f,b+2,1 | Blue Bolt     | 10, 10  | 14      | -18   | Combo | Combo |                  |
+| f1+2    | Ark Blast     | 20      | 15      | -13   | Combo | Combo |                  |
 
 ## Links
 
